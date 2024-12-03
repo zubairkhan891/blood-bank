@@ -5,12 +5,12 @@ import { getFirestore } from 'firebase/firestore'
 // TODO: Replace the following with your app's Firebase project configuration
 // See: https://firebase.google.com/docs/web/learn-more#config-object
 const firebaseConfig = {
-    apiKey: "AIzaSyCYXsTjwF3XsptFzhUybXO1y69fxPc2J4M",
-  authDomain: "blog-fbe70.firebaseapp.com",
-  projectId: "blog-fbe70",
-  storageBucket: "blog-fbe70.appspot.com",
-  messagingSenderId: "1026796841711",
-  appId: "1:1026796841711:web:ac3a1ad36ed879fa08891a"
+  apiKey: "AIzaSyD9YSjEbc67bvP7lWSN1SS94-xI9fkQzEk",
+  authDomain: "auth-email-5435b.firebaseapp.com",
+  projectId: "auth-email-5435b",
+  storageBucket: "auth-email-5435b.firebasestorage.app",
+  messagingSenderId: "1017523958601",
+  appId: "1:1017523958601:web:d657be51cf582f743d2098"
 };
 
 // Initialize Firebase

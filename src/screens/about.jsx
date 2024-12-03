@@ -56,9 +56,9 @@ const About = () => {
         </p>
 
         {/* Services Section */}
-        <section className="mb-16">
+        <section className="mb-16 bg-red-500 p-3">
           <h2 className="text-4xl font-bold text-center mb-8">Our Services</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 ">
             {services.map((service, index) => (
               <div
                 key={index}
